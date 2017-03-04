@@ -1,1 +1,1 @@
-# battlesnakesnake
+# snakexd.ai
